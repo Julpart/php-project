@@ -1,0 +1,36 @@
+Пользователь: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 YaBrowser/22.3.2.648 Yowser/2.5 Safari/537.36
+Дата: 2022-04-25 01:03:14
+Результат: 2/3
+
+Пользователь: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 YaBrowser/22.3.2.648 Yowser/2.5 Safari/537.36
+Дата: 2022-04-25 01:03:29
+Результат: 0/3
+
+Пользователь: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0
+Дата: 2022-04-25 01:05:46
+Результат: 1/3
+
+Пользователь: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 YaBrowser/22.3.2.648 Yowser/2.5 Safari/537.36
+Дата: 2022-04-26 12:19:16
+Результат: 2/3
+
+Пользователь: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 YaBrowser/22.3.3.855 Yowser/2.5 Safari/537.36
+Дата: 2022-05-02 22:36:59
+Результат: 2/3
+
+Пользователь: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 YaBrowser/22.3.3.855 Yowser/2.5 Safari/537.36
+Дата: 2022-05-02 22:37:10
+Результат: 2/3
+
+Пользователь: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 YaBrowser/22.3.3.855 Yowser/2.5 Safari/537.36
+Дата: 2022-05-02 22:38:18
+Результат: 2/3
+
+Пользователь: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 YaBrowser/22.3.3.855 Yowser/2.5 Safari/537.36
+Дата: 2022-05-03 05:06:20
+Результат: 2/3
+
+Пользователь: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 YaBrowser/22.3.3.855 Yowser/2.5 Safari/537.36
+Дата: 2022-05-03 05:06:32
+Результат: 0/3
+
